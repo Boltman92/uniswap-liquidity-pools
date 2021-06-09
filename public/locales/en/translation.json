@@ -1,0 +1,15 @@
+{
+  "liquidValue": "Liquidity Value",
+  "liquidInclFees": "Liquidity (Including Fees)",
+  "feesEarnedCumulative": "Fees Earned (Cumulative)",
+  "liquidity": "Liquidity",
+  "walletStats": "Wallet Stats",
+  "totalValueSwapped": "Total Value Swapped",
+  "totalFeesPaid": "Total Fees Paid",
+  "totalTransactions": "Total Transactions",
+  "name": "Name",
+  "totalFeesEarned": "Total Fees Earned",
+  "add": "Add",
+  "remove": "Remove",
+  "positions": "Positions"
+}
